@@ -1,3 +1,5 @@
+package Polymorphism;
+
 class Bicycle
 {
     public int gear;
@@ -59,8 +61,6 @@ public class Main {
 
         mb.seatHeight(22);
         System.out.println(mb.printInfo()+"\n");
-
-
 
     }
 }
